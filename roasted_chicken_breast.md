@@ -1,4 +1,4 @@
-# Cast Iron SKillet Roasted Chicken Breast with Carrots & Potatoes
+# Cast Iron Skillet Roasted Chicken Breast with Carrots & Potatoes
 
 This is a favorite of mine on a late night.
 
