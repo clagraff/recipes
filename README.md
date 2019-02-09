@@ -4,15 +4,18 @@ to dedicate a repo to managing the various recipes I want to keep track of.
 
 <!-- Food emoticons: https://emojipedia.org/food-drink/ -->
 
-## Current Recipes
+## Meal Recipes
 
-- 🌮 [Chicken Quesadilla](chicken_quesadilla.md)
-- 🐔 [Country Fried Chicken](country_fried_chicken.md)
-- 🐟 [Crunchy Baked Salmon](crunchy_baked_salmon.md)
-- 🐟 [Lemon Butter Whitefish](lemon_butter_whitefish.md)
-- [Spicy Eel with Spring Onions](spicy_eel_with_spring_onions.md)
-- 🐔 [Cast Iron Roasted Chicken Breast](roasted_chicken_breast.md)
-- 🍚 [Lemon Rice](lemon_rice.md)
+- 🌮 [Chicken Quesadilla](meals/chicken_quesadilla.md)
+- 🐔 [Country Fried Chicken](meals/country_fried_chicken.md)
+- 🐟 [Crunchy Baked Salmon](meals/crunchy_baked_salmon.md)
+- 🐟 [Lemon Butter Whitefish](meals/lemon_butter_whitefish.md)
+- [Spicy Eel with Spring Onions](meals/spicy_eel_with_spring_onions.md)
+- 🐔 [Cast Iron Roasted Chicken Breast](meals/roasted_chicken_breast.md)
+
+## Side Recipes
+
+- 🍚 [Lemon Rice](sides/lemon_rice.md)
 
 ## Adding new recipes
 
