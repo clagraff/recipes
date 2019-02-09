@@ -32,8 +32,8 @@ Easy to prepare, and cooks quickly. Recommended to serve with rice & sauted vegg
 ### Prepare sauce
 
 * Melt butter and place in small bowl. Do not burn.
-* Add 1 tbsp of salt to bowl
-* Add lemon juice to bowl
+* Add 1 tbsp of salt to bowl.
+* Add lemon juice to bowl.
 
 ### Prepare seasoning mix
 
