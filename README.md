@@ -2,6 +2,8 @@
 Tired of having links, bookmarks, and Slack messages of various food recipes, I have decided
 to dedicate a repo to managing the various recipes I want to keep track of.
 
+<!-- Food emoticons: https://emojipedia.org/food-drink/ -->
+
 ## Current Recipes
 
 - 🌮 [Chicken Quesadilla](chicken_quesadilla.md)
