@@ -2,8 +2,6 @@
 Tired of having links, bookmarks, and Slack messages of various food recipes, I have decided
 to dedicate a repo to managing the various recipes I want to keep track of.
 
-<!-- Food emoticons: https://emojipedia.org/food-drink/ -->
-
 ## Meal Recipes
 
 - 🌮 [Chicken Quesadilla](meals/chicken_quesadilla.md)
@@ -19,32 +17,4 @@ to dedicate a repo to managing the various recipes I want to keep track of.
 
 ## Adding new recipes
 
-When adding new recipes, please use the following format for consistency:
-
-```
-# Name of Meal Here
-
-[Original Recipe](https://link.com/to-recipe-onlne-if-applicable)
-
-## Ingredients
-
-### Main Ingredients
-
-* 2 tbsp of love
-* 3 cups of happyness
-* 1 2/3 zest of encouragement
-
-### Cooking Instructions
-
-## Cooking the first part
-
-* Mix all the dry seasonings.
-* Prepare the thing to roast the other thing.
-* Do the thing.
-
-## Cooking the second part, Part II.
-
-* Do more stuff.
-* Complete other thing.
-* Add stuff; be done.
-```
+See the markdown structure for the [example recipe](example_recipe.md). Use that structure when creating and adding new recipes. Don't forget to update this [README](README.md) file with a link to the recipe. For flair, try to find an icon from [Emojipedia](https://emojipedia.org/food-drink/).
