@@ -4,6 +4,7 @@ to dedicate a repo to managing the various recipes I want to keep track of.
 
 ## Current Recipes
 
+- 🌮 [Chicken Quesadilla](chicken_quesadilla.md)
 - 🐔 [Country Fried Chicken](country_fried_chicken.md)
 - 🐟 [Crunchy Baked Salmon](crunchy_baked_salmon.md)
 - 🐟 [Lemon Butter Whitefish](lemon_butter_whitefish.md)
