@@ -10,3 +10,4 @@ to dedicate a repo to managing the various recipes I want to keep track of.
 - 🐟 [Lemon Butter Whitefish](lemon_butter_whitefish.md)
 - [Spicy Eel with Spring Onions](spicy_eel_with_spring_onions.md)
 - 🐔 [Cast Iron Roasted Chicken Breast](roasted_chicken_breast.md)
+- 🍚 [Lemon Rice](lemon_rice.md)
