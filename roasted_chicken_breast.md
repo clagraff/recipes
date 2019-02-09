@@ -1,5 +1,5 @@
 # Cast Iron Skillet Roasted Chicken Breast with Carrots & Potatoes
-![image](https://static1.squarespace.com/static/542d948de4b0c8590fff218b/t/564f728de4b0e404d7737dd6/1448047247705/?format=50w)
+![image](https://static1.squarespace.com/static/542d948de4b0c8590fff218b/t/564f728de4b0e404d7737dd6/1448047247705/?format=150w)
 
 [Original Recipe](https://www.homeandplate.com/blog/2016/cast-iron-skillet-roasted-chicken-breasts-with-carrots-potatoes)
 
