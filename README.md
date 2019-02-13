@@ -15,7 +15,7 @@ to dedicate a repo to managing the various recipes I want to keep track of.
 
 ## Sauces
 
-- 🍝 [Easy Alfredo](sauecs/easy_alfredo.md)
+- 🍜 [Easy Alfredo](sauces/easy_alfredo.md)
 
 ## Side Recipes
 
