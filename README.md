@@ -13,6 +13,10 @@ to dedicate a repo to managing the various recipes I want to keep track of.
 - [Spicy Eel with Spring Onions](meals/spicy_eel_with_spring_onions.md)
 - 🐔 [Cast Iron Roasted Chicken Breast](meals/roasted_chicken_breast.md)
 
+## Sauces
+
+- 🍝 [Easy Alfredo](sauecs/easy_alfredo.md)
+
 ## Side Recipes
 
 - 🍚 [Lemon Rice](sides/lemon_rice.md)
