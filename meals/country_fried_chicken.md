@@ -14,8 +14,8 @@ The exact amount of ingrediants will vary depending on your fillet sizes. Use be
 * 4 Eggs
 * 2 cups of flour
 * Use *one* of the following seasoning mixes:
-  * 1 tbsp each of: kosher salt, black pepper, onion powder, garlic powder, chili powder, turmeric
-  * 1 tbsp each of: kosher salt, black pepper, rosemary, thyme
+  * 1 tbsp each of: kosher salt, black pepper, onion powder, garlic powder, chili powder, turmeric (tastes like chicken tenders)
+  * 1 tbsp each of: kosher salt, black pepper, rosemary, thyme (more herbal taste)
 
 ### Cooking Instructions
 
@@ -31,3 +31,7 @@ The exact amount of ingrediants will vary depending on your fillet sizes. Use be
 * Flip and fry for another 5 minutes.
 * Remove and place over papertowel to absorb excess oil.
 * Bring oil back to 350°F before starting next batch.
+
+## Notes
+
+I like to not fry a whole chickenbreast at once, but instead slice it to make chicken-tender like pieces, and fry _those_. Works really well.
