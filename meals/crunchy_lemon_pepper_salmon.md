@@ -1,4 +1,4 @@
-# Chicken Lemon Rice
+# Crunchy Lemon Pepper Salmon
 
 [Original Recipe](https://momtomomnutrition.com/food-and-recipes/chicken-lemon-rice-soup/)
 
