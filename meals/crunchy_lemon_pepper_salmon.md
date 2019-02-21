@@ -1,6 +1,6 @@
 # Crunchy Lemon Pepper Salmon
 
-[Original Recipe](https://momtomomnutrition.com/food-and-recipes/chicken-lemon-rice-soup/)
+[Original Recipe](http://littlespicejar.com/crunchy-garlic-lemon-pepper-baked/)
 
 ## Ingredients
 
