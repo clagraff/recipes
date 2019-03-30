@@ -22,6 +22,7 @@ to dedicate a repo to managing the various recipes I want to keep track of.
 ## Side Recipes
 
 - 🍚 [Lemon Rice](sides/lemon_rice.md)
+- 🥦 [Roasted Broccoli Chips](sides/roasted_broccoli_chips.md)
 
 # Adding new recipes
 
