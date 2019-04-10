@@ -1,9 +1,6 @@
-# Lemon Butter Whitefish
+# Crispy Chicken Parm
 
-[Original Recipe](http://www.chewoutloud.com/2017/06/06/easy-lemon-butter-fish-15-minutes/)
-
-Pan-seared whitefish, cooked with a lemon-butter sauce, and delicious dry seasonings.
-Easy to prepare, and cooks quickly. Recommended to serve with rice & sauted veggies.
+[Original Recipe](https://youtu.be/p-LY9b1u_io)
 
 ## Ingredients
 
