@@ -14,6 +14,7 @@ to dedicate a repo to managing the various recipes I want to keep track of.
 - 🐔 [Cast Iron Roasted Chicken Breast](meals/roasted_chicken_breast.md)
 - 🥣 [Chicken Lemon Rice soup](meals/chicken_lemon_rice_soup.md)
 - 🐟 [Crunchy Lemon Pepper Salmon](meals/crunchy_lemon_pepper_salmon.md)
+- 🐔 [Crispy Chicken Parm](meals/crispy_chicken_parm.md)
 
 ## Sauces
 
