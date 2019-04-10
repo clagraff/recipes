@@ -25,6 +25,10 @@ to dedicate a repo to managing the various recipes I want to keep track of.
 - 🍚 [Lemon Rice](sides/lemon_rice.md)
 - 🥦 [Roasted Broccoli Chips](sides/roasted_broccoli_chips.md)
 
+## Dessert Recipes
+
+- 🥧 [Sweet Cornbread](desserts/sweet_cornbread.md)
+
 # Adding new recipes
 
 See the markdown structure for the [example recipe](example_recipe.md). Use that structure when creating and adding new recipes. Don't forget to update this [README](README.md) file with a link to the recipe. For flair, try to find an icon from [Emojipedia](https://emojipedia.org/food-drink/).
