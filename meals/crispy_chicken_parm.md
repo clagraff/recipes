@@ -2,19 +2,18 @@
 
 [Original Recipe](https://youtu.be/p-LY9b1u_io)
 
+
 ## Ingredients
 
 ### Main Ingredients
 
 * 2 chicken breasts
-* 1 bulb of garlic (4/5 cloves)
+* 4 garlic cloves
 * 1 shallot
-* 2 tbspn tomato paste
-* 28oz can of (crushed) tomato
 * White wine
 * Flour
-* 1/2 cup of Panko bread crumbs *per piece of chicken*
-* 1/2 cup of parmesan cheese *per piece of chicken*
+* 1/4 cup of Panko bread crumbs *per piece of chicken*
+* 1/4 cup of parmesan cheese *per piece of chicken*
 * 2 eggs
 
 ## Preparation
@@ -30,14 +29,12 @@
 ### Cooking Instructions
 
 ## The Sauce
-* Dice up shallot.
-* Heat some olive in a pan at medium-low heat.
-* Add shallots, rest of garlic, and tomato paste.
-* Fry till shallots become translucent.
-* Add the canned crushed tomatos
-* Glug of white wine.
-* Reduce to simmer, stir often for 30 minutes.
-* Add salt, pepper, and fresh basil once cooked.
+* Just use store-brand sauce.
+* `optional` Add some garlic, onion, peppers, etc tp the sauce.
+* Bring sauce to simmer.
+
+## Pasta
+* Cook some pasta.
 
 ## The chicken
 * Prepare three bowls:
@@ -47,9 +44,6 @@
 * Take chicken out from fridge.
 * Dry chicken on papertowel.
 * Cover the chicken in flour, then egg(s), then the breadcrumb+cheese mixture. 
-
-## Pasta
-* Cook some pasta.
 
 ## Fry the chicken
 * In a pan, heat some olive oil at medium heat
