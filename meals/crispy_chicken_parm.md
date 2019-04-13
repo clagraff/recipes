@@ -2,19 +2,26 @@
 
 [Original Recipe](https://youtu.be/p-LY9b1u_io)
 
+While the original recipe includes directions for a sauce, I have chosen to omit them. I did not care
+for the sauce. Plus, I often find it not worth the effort or time to make sauce when compared to ready-made
+purchasable sauce.
+
+The chicken is _delicious_. Can be eaten without sauce and pasta. Very good taste, just be sure not burn it while frying.
 
 ## Ingredients
-
-### Main Ingredients
 
 * 2 chicken breasts
 * 4 garlic cloves
 * 1 shallot
-* White wine
-* Flour
+* White wine (to taste)
+* Flour (depends on chicken size/amount)
 * 1/4 cup of Panko bread crumbs *per piece of chicken*
 * 1/4 cup of parmesan cheese *per piece of chicken*
 * 2 eggs
+
+**Note**
+Original recipe calls for 1/2 cup of breadcrumbs and cheese, but I had a _ton_ left over.
+I'd suggest going for a smaller amount and see how that works. Can always add more.
 
 ## Preparation
 
@@ -25,18 +32,17 @@
 * In a bowl, add the chicken, about 1/3 of the garlic, and 1 tbsp white wine
 * Mix in bowl, place in fridge.
 
+## Cooking Instructions
 
-### Cooking Instructions
-
-## The Sauce
+### The Sauce
 * Just use store-brand sauce.
 * `optional` Add some garlic, onion, peppers, etc tp the sauce.
 * Bring sauce to simmer.
 
-## Pasta
+### Pasta
 * Cook some pasta.
 
-## The chicken
+### The chicken
 * Prepare three bowls:
   * One with flour
   * One with panko bread crumbs + cheese. Mix well.
@@ -45,7 +51,7 @@
 * Dry chicken on papertowel.
 * Cover the chicken in flour, then egg(s), then the breadcrumb+cheese mixture. 
 
-## Fry the chicken
+### Frying
 * In a pan, heat some olive oil at medium heat
 * Add seasoned chicken breast.
 * Reduce heat if needed; we want a light sizzle.
