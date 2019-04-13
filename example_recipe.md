@@ -16,6 +16,10 @@
 ## Preparation
 <!-- For preparation that can be before cooking. When not applicable, do not include.  -->
 
+* Prepare dough 3 days before.
+* Precut veggies and marinade in fridge for at least 2 hours.
+* Precook chicken, season, and leave till cooking.
+
 ## Cooking Instructions
 <!-- group cooking instructions as makes sense.  Indicate `optional` steps with back-ticks  -->
 
