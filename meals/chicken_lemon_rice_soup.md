@@ -2,9 +2,12 @@
 
 [Original Recipe](https://momtomomnutrition.com/food-and-recipes/chicken-lemon-rice-soup/)
 
-## Ingredients
+Not the most visually appealing recipe, but when made right it can be very tasty.
+A very simple chicken lemon rice recipe, where the hardest part is waiting for the rice to cook.
 
-### Main Ingredients
+Do not be afraid to add more/less lemon to fit your preference. I often have to add more lemn juice.
+
+## Ingredients
 
 * 4 cups chicken broth
 * 1/2 cup uncooked white rice
@@ -12,12 +15,12 @@
 * 2 eggs
 * 2 cups shredded chicken (1-2 chicken breast)
 
-### Preparation
+## Preparation
 
 * Mix the eggs and lemon juice in a bowl.
 * Separatly, shred chicken.
 
-### Cooking Instructions
+## Cooking Instructions
 
 * Add broth to pot, bring to boil.
 * Rinse rise in a strainer under cold water.
