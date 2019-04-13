@@ -8,8 +8,6 @@ Medium-rare salmon, baked with a crunchy breadcrumb top-crust.
 
 The exact amount of ingrediants will vary depending on your fillet sizes. Use best judgement.
 
-### Main Ingredients
-
 * 2 salmon fillets
 * 3 tbsp salted butter
 * 1 cup panko breadcrumbs
@@ -39,7 +37,7 @@ The exact amount of ingrediants will vary depending on your fillet sizes. Use be
  * Cover top of fillets evenly with mustard/mayo "glue".
  * Cover with breadcrumbs prepared earlier.
 
-### Cooking Instructions
+## Cooking Instructions
 
 * Preheat oven to 325°F oven.
 * Cover baking sheet with aluminum foil.
