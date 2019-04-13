@@ -2,9 +2,9 @@
 
 [Original Recipe](https://youtu.be/TTagMrBZ1z8)
 
-## Ingredients
+Fairly straightforward quesadilla recipe; heavy on the seasonings. 
 
-### Main Ingredients
+## Ingredients
 
 * 2 Boneless, skinless chicken breast
 * 2 cups of grated monteray jack cheese
