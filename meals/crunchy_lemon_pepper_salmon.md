@@ -4,8 +4,6 @@
 
 ## Ingredients
 
-### Main Ingredients
-
 * 1.5 lbs salmon
 * 2 tbsp melted butter (3 tbsp unmelted?)
 * 1/2 tsp red pepper flakes
@@ -17,7 +15,7 @@
 * 1/2 tsp dried italian seasoning
 * 1/2 tsp thyme
 
-### Cooking Instructions
+## Cooking Instructions
 
 * Preheat oven to 425ºF.
 * Cover baking sheet with foil; spray with non-stick or veggie spray
