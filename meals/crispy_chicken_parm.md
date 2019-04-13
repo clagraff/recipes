@@ -30,7 +30,7 @@ I'd suggest going for a smaller amount and see how that works. Can always add mo
 * Season both sides with salt and pepper.
 * Dice 5 cloves of garlic.
 * In a bowl, add the chicken, about 1/3 of the garlic, and 1 tbsp white wine
-* Mix in bowl, place in fridge.
+* Mix in bowl, place in fridge. Leave for 30 minutes minimum.
 
 ## Cooking Instructions
 
