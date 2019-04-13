@@ -18,9 +18,9 @@ Fairly straightforward quesadilla recipe; heavy on the seasonings.
 * 1 tbsp olive oil
 * 1 tbsp butter
 
-### Cooking Instructions
+## Cooking Instructions
 
-## Cooking the chicken
+### Cooking the chicken
 
 * Mix all the seasonings together in a large bowl.
 * Cut chicken breast into small, bite-size chunks. 
@@ -28,7 +28,7 @@ Fairly straightforward quesadilla recipe; heavy on the seasonings.
 * Heat olive oil and melt butter together in a pan on medium heat.
 * Cook seasoned chicken in pan for 7-9 minutes, until cooked.
 
-## Making the Quesadillas
+### Making the Quesadillas
 
 * Lightly coat one side of a tortilla with olive oil.
 * Add some cheese to half of non-oiled side of tortilla.
