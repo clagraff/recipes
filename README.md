@@ -16,6 +16,7 @@ to dedicate a repo to managing the various recipes I want to keep track of.
 - 🐟 [Crunchy Lemon Pepper Salmon](meals/crunchy_lemon_pepper_salmon.md)
 - 🐔 [Crispy Chicken Parm](meals/crispy_chicken_parm.md) 🌟
 - 🐔 [Chicken Fajitas](meals/chicken_fajitas.md)
+- 🍜 [Cheesy Lemon Chicken Pasta](means/cheesy_lemon_chicken_pasta.md) 🌟
 
 ## Sauces
 
