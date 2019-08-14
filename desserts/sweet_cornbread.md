@@ -8,7 +8,7 @@
 
 * 1 egg
 * 1/3 cup veggie oil
-* 3/4 cup white sugar
+* 1 cup white sugar
 * 1 cup milk
 * 1 cup flour
 * 3/4 tsp salt
@@ -39,3 +39,6 @@
 * Pull out and leave in pan. Sit for few minutes.
 * Cover with plate, flip and remove. Flip plate w/ bread onto cooling rack.
 * Let cool for 10 minutes.
+
+
+**Bonus tip:** While the bread is still hot, or after reheating a slice for `30s` in a microwave, cover with a line or two of honey. It is delicious!
