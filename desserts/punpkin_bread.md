@@ -37,3 +37,7 @@
 * Cook at 325 degrees for 65 - 75 minutes, until a cake tester comes out clean.
 * Remove from heat; let sit for 10 minutes.
 * Serve.
+
+
+## Freezer-Friendly Instructions
+The bread can be frozen for up to 3 months. After it is completely cooled, wrap it securely in aluminum foil, freezer wrap or place in a freezer bag. Thaw overnight in the refrigerator before serving.
