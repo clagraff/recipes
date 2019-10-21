@@ -26,12 +26,14 @@
 
 
 ### Cooking Instructions
-* Combine flour, salt, baking soda, baking powder, cloves, cinnamon, & nutmeg in a medium bowl.
-* Whisk all the dry ingredients together.
-* In a separate bowl, beat/mix together sugar and room-temperature butter until blended.
-* Mix in one egg at a time. Beat until very light & fluffy, usually a few minutes.
-* Beat in the pumpkin.
+* In a medium bowl, combine the flour, salt, baking soda, baking powder, cloves, cinnamon, and nutmeg. Whisk until well combined
+* In a separate bowl, beat/mix together sugar and room-temperature butter until blended. Use electric mixer.
+* Mix first egg to butter/sugar blend. Beat until very light & fluffy, usually a few minutes.
+* Repeat for second egg.
+* Add in can of pumpkin, mixing well.
 * Pour in the flour mixture & mix on **low** speed until combined.
-
-
-**Bonus tip:** While the bread is still hot, or after reheating a slice for `30s` in a microwave, cover with a line or two of honey. It is delicious!
+* Remove pre-heated pans/tins. Melt butter or use non-stick spray.
+* Evenly pour in the mixture into however many tins you have.
+* Cook at 325 degrees for 65 - 75 minutes, until a cake tester comes out clean.
+* Remove from heat; let sit for 10 minutes.
+* Serve.
