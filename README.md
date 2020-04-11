@@ -17,6 +17,7 @@ to dedicate a repo to managing the various recipes I want to keep track of.
 - 🐔 [Crispy Chicken Parm](meals/crispy_chicken_parm.md) 🌟
 - 🐔 [Chicken Fajitas](meals/chicken_fajitas.md)
 - 🍜 [Cheesy Lemon Chicken Pasta](meals/cheesy_lemon_chicken_pasta.md) 🌟
+- 🍜 [Legate Ears (egg noodles)](meals/legate_ears.md) 🌟
 
 ## Sauces
 
