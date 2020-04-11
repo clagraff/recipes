@@ -29,6 +29,7 @@ to dedicate a repo to managing the various recipes I want to keep track of.
 - 🍚 [Lemon Rice](sides/lemon_rice.md)
 - 🥦 [Roasted Broccoli Chips](sides/roasted_broccoli_chips.md)
 - 🥔 [Roasted Rosemary Potatoes](sides/roasted_rosemary_potatoes.md)
+- 🥖 Legate Loaf](sides/legate_loaf.md) 🌟
 
 ## Dessert Recipes
 
