@@ -30,6 +30,7 @@ to dedicate a repo to managing the various recipes I want to keep track of.
 - 🥦 [Roasted Broccoli Chips](sides/roasted_broccoli_chips.md)
 - 🥔 [Roasted Rosemary Potatoes](sides/roasted_rosemary_potatoes.md)
 - 🥖 [Legate Loaf](sides/legate_loaf.md) 🌟
+- 🥔 [Potato Flatbread](sides/potato_flatbread.md) 🌟
 
 ## Dessert Recipes
 
