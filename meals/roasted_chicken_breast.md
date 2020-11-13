@@ -12,7 +12,7 @@ Although it does take some time to cook, the payoff is worth it.
 ## Ingredients
 
 - 2 Slices of Bacon
-- 1 Whole Chicken Breast
+- 2 Whole Chicken Breast
 - 1/4 Cup flour
 - 1 Tbsp Herbs de Provence (or more for taste)
 - 1 Cup Chicken Broth
