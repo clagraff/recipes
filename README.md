@@ -32,6 +32,7 @@ to dedicate a repo to managing the various recipes I want to keep track of.
 - 🥖 [Legate Loaf](sides/legate_loaf.md) 🌟
 - 🥔 [Potato Flatbread](sides/potato_flatbread.md) 🌟
 - 🧅 [Pickled Onions](/sides/pickled_onions.md) 🌟
+- [Tzatziki Sauce](/sides/tzatziki_sauce.md)
 
 ## Dessert Recipes
 
