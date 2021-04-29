@@ -31,6 +31,7 @@ to dedicate a repo to managing the various recipes I want to keep track of.
 - 🥦 [Roasted Broccoli Chips](sides/roasted_broccoli_chips.md)
 - 🥔 [Roasted Rosemary Potatoes](sides/roasted_rosemary_potatoes.md)
 - 🥖 [Legate Loaf](sides/legate_loaf.md) 🌟
+- 🍞 [No-Knead Bread](sides/no_knead_bread.md) 🌟
 - 🥔 [Potato Flatbread](sides/potato_flatbread.md) 🌟
 - 🧅 [Pickled Onions](/sides/pickled_onions.md) 🌟
 - 🥒 [Tzatziki Sauce](/sides/tzatziki_sauce.md)
