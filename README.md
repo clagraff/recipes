@@ -37,6 +37,7 @@ to dedicate a repo to managing the various recipes I want to keep track of.
 - 🥒 [Tzatziki Sauce](/sides/tzatziki_sauce.md)
 - 🥬 [Coleslaw](/sides/coleslaw.md)
 - 🔥 [Buffalo Suace](/sides/buffalo_sauce.md)
+- 🍞 [Focaccia](/sides/focaccia.md) 
 
 ## Dessert Recipes
 
