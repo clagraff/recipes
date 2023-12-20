@@ -20,6 +20,7 @@ to dedicate a repo to managing the various recipes I want to keep track of.
 - 🍜 [Cheesy Lemon Chicken Pasta](meals/cheesy_lemon_chicken_pasta.md) 🌟
 - 🍜 [Legate Ears (egg noodles)](meals/legate_ears.md) 🌟
 - [Avgolemono Soup](meals/avgolemono_soup.md)
+- 🥐 [Steak Pasty](meals/steak_pasty.md)
 
 ## Sauces
 
