@@ -21,6 +21,7 @@ to dedicate a repo to managing the various recipes I want to keep track of.
 - 🍜 [Legate Ears (egg noodles)](meals/legate_ears.md) 🌟
 - [Avgolemono Soup](meals/avgolemono_soup.md)
 - 🥐 [Steak Pasty](meals/steak_pasty.md)
+- 🍟 [Oven Baked Fries](meals/oven_baked_fries.md)
 
 ## Sauces
 
