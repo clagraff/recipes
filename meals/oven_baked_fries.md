@@ -5,7 +5,7 @@ Stupid-simple recipe for _amazing_ fries, that is easy to make but has a long co
 
 ## Ingredients
 
-* 4 russet potatoes
+* 4 russet potatoes (or 1 per-person)
 * Parmesan (to taste)
 * Salt (to taste)
 * Pepper (to taste)
@@ -13,12 +13,16 @@ Stupid-simple recipe for _amazing_ fries, that is easy to make but has a long co
 
 ## Cooking Instructions
 
-* Peel all the potatoes.
-* For each potatoe, cut into thirds, then slice into fry-shaped sticks
-* Put into a pot.
-* Add cold water into the pot, until just covering all the potatoes.
-* Start pre-heating oven to 450 degrees.
-* Heat on high-heat. Times vary wildly.
-  * You want the potatoe to be on the verge of breaking when you pick one up.
-* Carefully drain the water from the pot.
-* Carefully pour the 'taters into an oven pan. SINGLE LAYER!
+- Preheat oven to 450-degrees.
+- (Optionally, but suggested) peel all potatos
+- Cut into 1" (thick) fries or wedge
+- Add to a coverable pot or pan, cover with water. On high-heat, bring to boil
+- Boil until the potatoes seem like my might break apart.
+- Carefully drain.
+- Place fries onto a sheetpan as a single layer.
+- Cover with olive oil or peanut oil. They should be well-coated, but not swimming. Shake the pan to get the potatoes well coated
+- Cook for 45 minutes, flip the larger ones (or all of them). Optionally add more oil if they look a bit dry.
+- Cook for roughly another 45 minutes.
+- In a large bowl, place some paper towel.
+- Add fries. Try to dry a little with the paper towel, before removing the paper towel.
+- Add salt, and seasonings. Salt, pepper, garlic powder, and parmesan.
