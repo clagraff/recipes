@@ -46,6 +46,7 @@ to dedicate a repo to managing the various recipes I want to keep track of.
 
 - 🥧 [Sweet Cornbread](desserts/sweet_cornbread.md) 🌟
 - 🥧 [Pumpkin Bread Loaf](desserts/pumpkin_bread.md) 🌟
+- 🥧 [Christmas Crack](desserts/xmas_crack.md) 🌟
 
 # Adding new recipes
 
