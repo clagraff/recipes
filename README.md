@@ -23,6 +23,7 @@ to dedicate a repo to managing the various recipes I want to keep track of.
 - 🥐 [Steak Pasty](meals/steak_pasty.md)
 - 🍟 [Oven Baked Fries](meals/oven_baked_fries.md)
 - [Potato Corn Chowder](meals/potato_corn_chowder.md)
+- [Pickle Soup](meals/pickle_soup.md)
 
 ** Crockpot Recipes**
 - [Chicken Taco Filling](meals/crockpot_chicken_tacos.md)
